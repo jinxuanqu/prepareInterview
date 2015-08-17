@@ -1,0 +1,13 @@
+1.Given a tiny computer with a 1 MHz CPU and 1 KiB of RAM memory;
+no input;
+only output is an LED light that says “I am done”.
+(1 MHz == 1 million instructions per second). visit 1point3acres.com for more.
+I load an arbitrary unknown program onto this computer.-google 1point3acres
+How long do we have to wait in wall-clock time before we can prove the program has an infinite loop?
+
+http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=134847&extra=page%3D1%26filter%3Dsortid%26sortid%3D311%26sortid%3D311
+
+2.HashTable get, set, delete, getRandom
+
+3.Given a source word, tart word and an English dictionary, transform the source word to target by changing/adding/removing 1 character at a time, while all intermediate words being valid English words.
+http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=124980&extra=page%3D1%26filter%3Dsortid%26sortid%3D311%26sortid%3D311
